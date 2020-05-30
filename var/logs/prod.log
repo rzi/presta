@@ -1,0 +1,4 @@
+[2019-12-22 12:49:40] app.ERROR: Class "AdminLinkWidgetController" not found in controllers/admin [] []
+[2019-12-22 12:49:41] app.INFO: Exporting mail with theme modern for language Polski (Polish) [] []
+[2019-12-22 12:49:41] app.INFO: Core output folder: /usr/home/rzi/domains/presta.ct8.pl/public_html/mails [] []
+[2019-12-22 12:49:41] app.INFO: Modules output folder: /usr/home/rzi/domains/presta.ct8.pl/public_html/modules/ [] []
